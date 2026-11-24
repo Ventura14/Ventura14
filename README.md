@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Buenaventura
+# Hi! I'm Buenaventura
 
 Software & Data Engineer based in Madrid, with an international background across Spain, Canada, Czech Republic and Germany. Double degree in Computer Engineering and Business Administration (Universidad de Granada).
 
